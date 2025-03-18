@@ -19,8 +19,6 @@ class vigenere:
 
 
 
-
-
 word = input("Lutfen kelimeyi giriniz: ")
 key = input("Lutfen anahtari giriniz: ")
 
